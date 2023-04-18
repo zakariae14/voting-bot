@@ -21,7 +21,7 @@ step 2: IP rotating
 
 for this step, we need a VPN tool that can provide us with some IP addresses such as : TunnelBear, UltraSurf
 the best one is UltraSurf. Download its exe file (u.exe), and use it from the command line, or from Python script with os.system
-Tunnel bear can be used in linux (tunnelbear_linux), but in Windows is complicated.
+Tunnel bear can be used in linux (tunnelbearin linux.rar), but in Windows is complicated.
 
 
 NB: Strawpoll can detect some VPN IPs, so we need to test a huge number of IPs.
