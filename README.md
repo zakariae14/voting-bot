@@ -12,11 +12,11 @@ when I use Selenium, and try to create a webdriver.Chrome/web driver.Edge object
 so, I used 'msedge.selenium_tools' library (must be installed from pycharm terminal #pip install msedge.selenium_tools ), it has a chromium feature that can respond to the previous problem.
 this browser should have some options:
 
--options.use_chromium = True
+*options.use_chromium = True
 
--options.add_argument("disable-blink-features=AutomationControlled")
+*options.add_argument("disable-blink-features=AutomationControlled")
 
--options.headless = False (by default)
+*options.headless = False (by default)
 
 sure, we need the web driver tools (msedgedriver.exe) should be in "C:\Program Files (x86)" to be executable : 
 
