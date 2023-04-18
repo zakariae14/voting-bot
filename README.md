@@ -23,7 +23,7 @@ sure, we need the web driver tools (msedgedriver.exe) should be in "C:\Program F
 step 2: IP rotating
 
 for this step, we need a VPN tool that can provide us with some IP addresses such as : TunnelBear, UltraSurf
-the best one is UltraSurf. Download its exe file (u.exe), and use it from the command line, or from Python script with os.system
+the best one is UltraSurf. Download its exe file (u.exe), and use it from the command line, or from Python script with os.system.
 Tunnel bear can be used in linux (tunnelbear in linux.rar), but in Windows is complicated.
 
 
